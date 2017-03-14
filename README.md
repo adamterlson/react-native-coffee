@@ -11,9 +11,9 @@ To try React Native online, go to [rnplay.org](https://rnplay.org/).
 - [Nuclide](https://nuclide.io/)
 
 
-## Presentation and Animation
+## Screen Building
 
-Build screens for our Coffee App.  Use: [Basement](http://market.designmodo.com/basement-ios/)
+Check out [Basement](http://market.designmodo.com/basement-ios/)
 
 - [Animation API](https://facebook.github.io/react-native/docs/animated.html)
 - [Basic Animation Tutorial](http://browniefed.com/blog/react-native-animated-api-basic-example/)
