@@ -1,0 +1,92 @@
+{
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rEFJSvLhqaiZxWinLBeAyQ/o.jpg",
+  "name": "Man Versus Machine",
+  "is_claimed": true,
+  "transactions": [],
+  "rating": 4.5,
+  "photos": [
+    "https://s3-media2.fl.yelpcdn.com/bphoto/rEFJSvLhqaiZxWinLBeAyQ/o.jpg",
+    "https://s3-media4.fl.yelpcdn.com/bphoto/SCCmGbeb7gQgCtGHR-x-ug/o.jpg",
+    "https://s3-media4.fl.yelpcdn.com/bphoto/ebZ8vSp4HkGCrkJlwgnJ0g/o.jpg"
+  ],
+  "hours": [
+    {
+      "open": [
+        {
+          "is_overnight": false,
+          "start": "0800",
+          "day": 0,
+          "end": "1800"
+        },
+        {
+          "is_overnight": false,
+          "start": "0800",
+          "day": 1,
+          "end": "1800"
+        },
+        {
+          "is_overnight": false,
+          "start": "0800",
+          "day": 2,
+          "end": "1800"
+        },
+        {
+          "is_overnight": false,
+          "start": "0800",
+          "day": 3,
+          "end": "1800"
+        },
+        {
+          "is_overnight": false,
+          "start": "0800",
+          "day": 4,
+          "end": "1800"
+        },
+        {
+          "is_overnight": false,
+          "start": "0900",
+          "day": 5,
+          "end": "1900"
+        }
+      ],
+      "is_open_now": false,
+      "hours_type": "REGULAR"
+    }
+  ],
+  "display_phone": "+49 89 80046681",
+  "categories": [
+    {
+      "title": "Coffee & Tea",
+      "alias": "coffee"
+    },
+    {
+      "title": "Coffee Roasteries",
+      "alias": "coffeeroasteries"
+    }
+  ],
+  "phone": "+498980046681",
+  "id": "man-versus-machine-münchen",
+  "location": {
+    "zip_code": "80469",
+    "state": "BY",
+    "city": "Munich",
+    "address3": "",
+    "display_address": [
+      "Müllerstr. 23",
+      "80469 Munich",
+      "Germany"
+    ],
+    "cross_streets": "",
+    "address1": "Müllerstr. 23",
+    "address2": "",
+    "country": "DE"
+  },
+  "review_count": 44,
+  "coordinates": {
+    "longitude": 11.57123,
+    "latitude": 48.13102
+  },
+  "price": "€€",
+  "url": "https://www.yelp.com/biz/man-versus-machine-m%C3%BCnchen?adjust_creative=g_cO5JMMQ-aAST6Q7p2ovQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=g_cO5JMMQ-aAST6Q7p2ovQ",
+  "is_closed": false
+}
