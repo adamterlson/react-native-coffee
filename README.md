@@ -1,6 +1,8 @@
 # Build a coffee app
 Thanks Tobi for the idea input!  Build an app for finding, drinking, and worshiping coffee and coffee-related activities.  Use React Native, obviously.
 
+[Create React Native App](https://facebook.github.io/react-native/blog/2017/03/13/introducing-create-react-native-app.html)
+
 To try React Native online, go to [rnplay.org](https://rnplay.org/).
 
 
