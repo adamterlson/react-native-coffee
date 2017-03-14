@@ -1,0 +1,35 @@
+{
+  "reviews": [
+    {
+      "rating": 5,
+      "url": "https://www.yelp.com/biz/man-versus-machine-m%C3%BCnchen?hrid=_d0sOf__Oi4zGQYfJqRgyQ&adjust_creative=g_cO5JMMQ-aAST6Q7p2ovQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=g_cO5JMMQ-aAST6Q7p2ovQ",
+      "user": {
+        "image_url": "https://s3-media1.fl.yelpcdn.com/photo/1up2IJ3zUNBJY-fDgf9EzQ/o.jpg",
+        "name": "Amber H."
+      },
+      "text": "This place sports a young, hipster vibe and some great coffee! The barista was very friendly and the coffee, while a rather light roast, was very tasty. We...",
+      "time_created": "2016-12-17 15:29:13"
+    },
+    {
+      "rating": 5,
+      "url": "https://www.yelp.com/biz/man-versus-machine-m%C3%BCnchen?hrid=6W81pUln3crPjBWypA7MGA&adjust_creative=g_cO5JMMQ-aAST6Q7p2ovQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=g_cO5JMMQ-aAST6Q7p2ovQ",
+      "user": {
+        "image_url": "https://s3-media1.fl.yelpcdn.com/photo/bI2xQuwN-UShkNN2pEUwyA/o.jpg",
+        "name": "Kareem H."
+      },
+      "text": "Best coffee in München ;), finally coffee without suger and taste good.\n\nStaff is very friendly too.\n\nYou should give it a try",
+      "time_created": "2016-10-08 07:17:46"
+    },
+    {
+      "rating": 5,
+      "url": "https://www.yelp.com/biz/man-versus-machine-m%C3%BCnchen?hrid=6scn_W1BXM4d1h3bKPKEVw&adjust_creative=g_cO5JMMQ-aAST6Q7p2ovQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=g_cO5JMMQ-aAST6Q7p2ovQ",
+      "user": {
+        "image_url": "https://s3-media1.fl.yelpcdn.com/photo/uVWXNAL6jd2FmIgFV3F0QQ/o.jpg",
+        "name": "Kristina A."
+      },
+      "text": "Amazing. \n\nMade a trip to this part or town looking for great espresso. Was not disappointed. \n\nI stayed in Munich for 6 days and this was the best...",
+      "time_created": "2016-09-10 19:43:37"
+    }
+  ],
+  "total": 44
+}
